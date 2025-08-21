@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.core_java_string_operations2.CharacterEncodingExamplesUnitTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.020 s -- in com.example.core_java_string_operations2.CharacterEncodingExamplesUnitTest
